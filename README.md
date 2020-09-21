@@ -1,0 +1,1 @@
+# ngx-fix-on-scroll
